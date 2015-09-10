@@ -10,7 +10,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import com.kapustin.configuration.ApplicationConfig;
-import com.kapustin.encryption.processor.EncryptedAnnotationProcessor;
+import com.kapustin.encryption.annotation.EncryptedAnnotationProcessor;
 
 /**
  * Created by v.kapustin on Sep 9, 2015.
